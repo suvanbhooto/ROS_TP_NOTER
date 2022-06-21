@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/suvan/catkin_ws/devel/.private/udm_ros_tutorial/setup.sh

@@ -1,0 +1,1 @@
+/home/suvan/catkin_ws/devel/.private/udm_ros_tutorial/lib/pkgconfig/udm_ros_tutorial.pc

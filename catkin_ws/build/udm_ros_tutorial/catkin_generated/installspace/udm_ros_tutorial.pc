@@ -1,0 +1,8 @@
+prefix=/home/suvan/catkin_ws/install
+
+Name: udm_ros_tutorial
+Description: Description of udm_ros_tutorial
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
